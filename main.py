@@ -15,7 +15,7 @@ import smtplib
 from dotenv import load_dotenv
 import os
 from email.mime.text import MIMEText 
-
+# 
 '''
 Make sure the required packages are installed: 
 Open the Terminal in PyCharm (bottom left). 
